@@ -1,7 +1,7 @@
 Koa Modular
 ===========
 
-A skeleton for Koa2 modular application + MongoDB.
+> A basic example creating a Koa modular application + MongoDB.
 
 Read the post [here](https://scotch.io/@lautiamkok/creating-a-modular-koa-application) about this repository.
 
