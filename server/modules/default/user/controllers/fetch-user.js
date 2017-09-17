@@ -15,7 +15,13 @@ export default async (ctx) => {
   let data
   let user = new User()
 
-  // Find a doc.
+  // Find the user.
   const userDocument = await user.findOne(options)
+
+  // Throw the error if no result.
+  if(userDocument === null) {
+    ctx.throw(400, 'No user found.')
+  }
+
   return userDocument
 }
