@@ -5,7 +5,7 @@ Koa Modular
 
 Read the post [here](https://scotch.io/@lautiamkok/creating-a-modular-koa-application) about this repository.
 
-quick start
+Quick start
 =============
 
 ``` bash
@@ -25,7 +25,7 @@ $ npm start
 
 2. [backpack](https://github.com/palmerhq/backpack) is used to watch and build the application, so you can use the latest ES6 features (module syntax, async/await, etc.).
 
-Docs
+Dependencies
 ==========
 
 * [koa-static](https://github.com/koajs/static) - Koa static file serving middleware, wrapper for koa-send.
