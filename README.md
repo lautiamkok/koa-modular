@@ -3,7 +3,7 @@ Koa Modular
 
 > A basic example creating a Koa modular application + MongoDB.
 
-Read the post [here](https://scotch.io/@lautiamkok/creating-a-modular-koa-application) about this repository.
+Read the post [here](https://www.codementor.io/lautiamkok/creating-a-modular-koa-application-cfprkirld) about this repository.
 
 Quick start
 =============
